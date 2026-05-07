@@ -15,7 +15,6 @@ const allowedOrigins = [
   'http://localhost:3000',
   'http://localhost:5173', // Vite default
   'http://localhost:8080'
-  'https://resourceful-perception-production-0c03.up.railway.app/'
 ].filter(Boolean);
 
 app.use(
