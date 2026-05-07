@@ -7,10 +7,10 @@ export default defineConfig({
   // Add this vite block to allow your Railway host
   vite: {
     server: {
-      allowedHosts: ["resourceful-perception-production-0c03.up.railway.app"],
+      allowedHosts: ["gregarious-truth-production-dc91.up.railway.app"],
     },
     preview: {
-      allowedHosts: ["resourceful-perception-production-0c03.up.railway.app"],
+      allowedHosts: ["gregarious-truth-production-dc91.up.railway.app"],
     },
   },
 });
