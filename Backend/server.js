@@ -15,7 +15,7 @@ const allowedOrigins = [
   'http://localhost:3000',
   'http://localhost:5173', // Vite default
   'http://localhost:8080',
-  'https://task-team-manager.vennapureddymahender.workers.dev/'
+  'https://task-team-manager.vennapureddymahender.workers.dev'
 ].filter(Boolean);
 
 app.use(
